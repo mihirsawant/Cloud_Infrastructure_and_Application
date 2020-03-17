@@ -1,0 +1,54 @@
+{
+  "name": "cloud",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawant-mi/ccwebapp.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Mihir Sawant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sawant-mi/ccwebapp/issues"
+  },
+  "homepage": "https://github.com/sawant-mi/ccwebapp#readme",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "aws-sdk": "^2.563.0",
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "chai-http": "^2.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.19.4",
+    "mocha": "^6.2.2",
+    "mongoose": "^5.7.1",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "nohup": "^0.1.0",
+    "passport": "^0.4.0",
+    "path": "^0.12.7",
+    "pg": "^7.12.1",
+    "pm2": "^4.1.2",
+    "request": "^2.88.0",
+    "stats-client": "^1.1.0",
+    "statsd-client": "^0.4.4",
+    "uuid": "^3.3.3",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
