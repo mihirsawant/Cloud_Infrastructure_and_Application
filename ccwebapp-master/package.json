@@ -34,7 +34,7 @@
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.19.4",
     "mocha": "^6.2.2",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "multer": "^1.4.2",
     "multer-s3": "^2.9.0",
     "nohup": "^0.1.0",
