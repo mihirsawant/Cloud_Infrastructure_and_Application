@@ -24,7 +24,7 @@
   "dependencies": {
     "app-root-path": "^3.0.0",
     "aws-sdk": "^2.563.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
