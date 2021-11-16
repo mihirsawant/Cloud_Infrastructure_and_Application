@@ -23,7 +23,7 @@
   "homepage": "https://github.com/sawant-mi/ccwebapp#readme",
   "dependencies": {
     "app-root-path": "^3.0.0",
-    "aws-sdk": "^2.563.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^3.0.6",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
